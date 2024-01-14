@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/codebine/Mocha-House.git/static/css/main.93f07d15.css",
+    "main.js": "/codebine/Mocha-House.git/static/js/main.35100e08.js",
+    "static/media/22.png": "/codebine/Mocha-House.git/static/media/22.198e13eb26765e0999c1.png",
+    "static/media/Background.png": "/codebine/Mocha-House.git/static/media/Background.26442bcf225c3c4f789e.png",
+    "static/media/Zar.png": "/codebine/Mocha-House.git/static/media/Zar.16a247de060d1870570c.png",
+    "static/media/100501.webp": "/codebine/Mocha-House.git/static/media/100501.bd86c8958839c5ca8cee.webp",
+    "static/media/100419.webp": "/codebine/Mocha-House.git/static/media/100419.fba521f972ff75508903.webp",
+    "static/media/105468.webp": "/codebine/Mocha-House.git/static/media/105468.f73de970699462608139.webp",
+    "static/media/100433.webp": "/codebine/Mocha-House.git/static/media/100433.5a53470786235a9f3aee.webp",
+    "static/media/img_avatar1.png": "/codebine/Mocha-House.git/static/media/img_avatar1.e20ca47f963c197e488e.png",
+    "index.html": "/codebine/Mocha-House.git/index.html",
+    "main.93f07d15.css.map": "/codebine/Mocha-House.git/static/css/main.93f07d15.css.map",
+    "main.35100e08.js.map": "/codebine/Mocha-House.git/static/js/main.35100e08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93f07d15.css",
+    "static/js/main.35100e08.js"
+  ]
+}
