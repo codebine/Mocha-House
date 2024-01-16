@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mocha-House/static/css/main.e30d3420.css",
-    "main.js": "/Mocha-House/static/js/main.68d91e68.js",
+    "main.css": "/Mocha-House/static/css/main.7fbb7290.css",
+    "main.js": "/Mocha-House/static/js/main.dae8ac4c.js",
     "static/media/22.png": "/Mocha-House/static/media/22.198e13eb26765e0999c1.png",
     "static/media/Background.png": "/Mocha-House/static/media/Background.26442bcf225c3c4f789e.png",
     "static/media/Zar.png": "/Mocha-House/static/media/Zar.16a247de060d1870570c.png",
@@ -11,11 +11,11 @@
     "static/media/100433.webp": "/Mocha-House/static/media/100433.5a53470786235a9f3aee.webp",
     "static/media/img_avatar1.png": "/Mocha-House/static/media/img_avatar1.e20ca47f963c197e488e.png",
     "index.html": "/Mocha-House/index.html",
-    "main.e30d3420.css.map": "/Mocha-House/static/css/main.e30d3420.css.map",
-    "main.68d91e68.js.map": "/Mocha-House/static/js/main.68d91e68.js.map"
+    "main.7fbb7290.css.map": "/Mocha-House/static/css/main.7fbb7290.css.map",
+    "main.dae8ac4c.js.map": "/Mocha-House/static/js/main.dae8ac4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e30d3420.css",
-    "static/js/main.68d91e68.js"
+    "static/css/main.7fbb7290.css",
+    "static/js/main.dae8ac4c.js"
   ]
 }
